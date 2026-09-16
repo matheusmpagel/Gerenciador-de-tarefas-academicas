@@ -1,2 +1,2 @@
 ## URL pública da página
-https://matheusmpagel.github.io/Desenvolvimento-Front-End/
+https://matheusmpagel.github.io/Gerenciador-de-tarefas-academicas/
