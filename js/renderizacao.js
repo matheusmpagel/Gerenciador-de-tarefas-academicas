@@ -9,6 +9,7 @@ function criarCartao(tarefa) {
     const prioridade = document.createElement("p");
     prioridade.className = "prioridade";
     prioridade.textContent = `Prioridade: ${tarefa.prioridade}`;
+    cartao.dataset.prioridade = tarefa.prioridade;
 
     const prazo = document.createElement("p");
     prazo.className = "prazo";
